@@ -339,19 +339,22 @@
 
 ### 便携式设备
 
+- Glass
+- Bracelet
+
 ## 社区发展
 
-### SSR
+- SSR
 
-### 大前端
+- 大前端
 
-### 微服务
+- 微服务
 
-### Serverless
+- Serverless
 
-### WebAssembly
+- WebAssembly
 
-### Less code/No code
+- Less code/No code
 
 ## 计算机基础
 
