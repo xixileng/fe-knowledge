@@ -3,10 +3,10 @@
 ![前端知识图谱](./前端知识图谱.png)
 
 ### Todo List
-* 为图谱对应的列表增添超链接，链接到知识点对应的更多内容的页面
-  - [ ] 编程基础
-  - [ ] 开发软件
-  - [ ] 类库框架
+* 为图谱对应的列表增添超链接，链接到知识点对应的更多内容的页面(建议文档渠道：MDN、官网、GitHub，中英文随意)
+  - [x] 编程基础
+  - [x] 开发软件
+  - [x] 类库框架
   - [ ] 知识进阶
   - [ ] 工程开发
   - [ ] 编程思想
@@ -34,86 +34,85 @@
 
 ### HTML(5)
 
-- 元素
-- DOM
-- 语义化
+- [元素](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element)
+- [DOM](https://developer.mozilla.org/zh-CN/docs/Web/API/Document_Object_Model)
+- [语义化](https://www.zhihu.com/question/20455165)
 
 ### CSS(3)
 
-- CSSOM
-- 选择器
-- 布局
-- 交互
-- 绘制
+- [CSSOM](https://developer.mozilla.org/zh-CN/docs/Web/API/CSS_Object_Model)
+- [选择器](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started/Selectors)
+- [布局](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout)
+- [交互](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+- [绘制](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction?hl=zh-CN)
 
-### JavaScript(ES6+)
+### JavaScript(ES6+) 
 
-- 类型
-- 原型链
-- 作用域
-- 闭包
-- 事件
-- 异步
-- 正则表达式
+- [类型](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Data_structures)
+- [原型链](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+- [作用域](https://developer.mozilla.org/zh-CN/docs/Glossary/Scope)
+- [闭包](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)
+- [事件](https://developer.mozilla.org/zh-CN/docs/Web/Events)
+- [异步](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript/%E5%BC%82%E6%AD%A5)
+- [正则表达式](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions)
 
 ## 开发软件
 
 ### 编辑器和IDE
 
-- VIM
-- Sublime Text3
-- Notepad++
-- WebStorm
-- Visual Studio Code
+- [VIM](https://www.jianshu.com/p/bcbe916f97e1)
+- [Sublime Text3](https://www.sublimetext.com/3)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
+- [WebStorm](https://www.jetbrains.com/webstorm/)
+- [Visual Studio Code(强烈推荐)](https://code.visualstudio.com/)
 
 ### 调试工具
 
-- Chrome Dev Tools
-- Firebug
-- Postman
-- Fiddler
-- Dragonfly
-- Charles
+- [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
+- [Firebug](https://getfirebug.com/)
+- [Postman](https://www.getpostman.com/)
+- [Fiddler](https://www.telerik.com/fiddler)
+- [Charles](https://www.charlesproxy.com/)
 
 ### 切图
 
--  Sketch
-- PhotoShop
-- PxCook
+- [Sketch](https://www.sketch.com/)
+- [PhotoShop](https://www.adobe.com/cn/products/cs6/photoshop.html)
+- [PxCook](https://www.fancynode.com.cn/pxcook)
 
 ## 类库框架
 
 ### 工具库
 
-- jQuery
-- Zepto
-- Bootstrap
-- Prototype
-- Underscore
-- Lodash
-- RxJS
-- moment
+- [jQuery](https://jquery.com/)
+- [Zepto](https://zeptojs.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Prototype](http://api.prototypejs.org/)
+- [Underscore](https://underscorejs.org/)
+- [Lodash](https://lodash.com/)
+- [RxJS](https://rxjs-dev.firebaseapp.com/)
+- [moment](https://momentjs.com/)
 
 ### 开发库/框架
 
-- Vue
+- [Vue](https://cn.vuejs.org/v2/guide/)
 
-	- Vuex
-	- Vue-router
-	- Vue-cli
-	- Element UI
+	- [Vuex](https://vuex.vuejs.org/zh/guide/)
+	- [Vue-router](https://router.vuejs.org/zh/)
+	- [Vue-cli](https://cli.vuejs.org/zh/guide/)
+	- [Element UI](https://element.eleme.io/#/zh-CN)
 
-- React
+- [React](https://zh-hans.reactjs.org/)
 
-	- Redux
-	- React-router
-	- create-react-app
-	- Ant design
+	- [Redux](https://redux.js.org/)
+	- [React-router](https://reacttraining.com/react-router/web/guides/quick-start)
+	- [create-react-app](https://github.com/facebook/create-react-app)
+	- [Ant design](https://ant.design/index-cn)
 
-- Angular
-- Ember
-- Knockout
-- Backbone
+- [Angular](https://angular.io/)
+- [Ember](https://emberjs.com/)
+- [Knockout](https://knockoutjs.com/)
+- [Backbone](https://backbonejs.org/)
 
 ## 知识进阶
 
