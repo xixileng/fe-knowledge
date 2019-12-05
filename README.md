@@ -8,12 +8,12 @@
   - [x] 开发软件
   - [x] 类库框架
   - [x] 知识进阶
-  - [ ] 工程开发
-  - [ ] 编程思想
-  - [ ] 领域分支
-  - [ ] 社区发展
-  - [ ] 计算机基础
-  - [ ] 后端知识
+  - [x] 工程开发
+  - [X] 编程思想
+  - [X] 领域分支
+  - [X] 社区发展
+  - [X] 计算机基础
+  - [X] 后端知识
   - [ ] 软技能
 
 * 增加二级图谱，进行更详细的拓展
@@ -125,7 +125,7 @@
   - [TCP](https://zh.wikipedia.org/wiki/%E4%BC%A0%E8%BE%93%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE)
   - [UDP](https://zh.wikipedia.org/zh-hans/%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E6%8A%A5%E5%8D%8F%E8%AE%AE)
   - [WebSocket](https://developer.mozilla.org/zh-CN/docs/Web/API/WebSocket)
-  - 补：[HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://juejin.im/entry/5981c5df518825359a2b9476)、[TCP和UDP的区别](https://zhuanlan.zhihu.com/p/24860273)
+  - *：[HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://juejin.im/entry/5981c5df518825359a2b9476)、[TCP和UDP的区别](https://zhuanlan.zhihu.com/p/24860273)
 
 - API风格
 
@@ -135,7 +135,7 @@
 
 ### 性能
 
-- [性能指标](https://juejin.im/post/5b0260ba51882542682e8250)
+- 性能指标
 
 	- 首次绘制（FP）
 	- 首次内容绘制（FCP）
@@ -145,6 +145,7 @@
 	- DNS解析时间
 	- TCP连接时间
 	- HTTP请求响应时间
+  - *：[以用户为中心的性能指标](https://juejin.im/post/5b0260ba51882542682e8250)
 
 - 评估工具
 
@@ -169,7 +170,7 @@
 - Chrome/Chromium (Blink)
 - Safari (WebKit)
 - Opera (Blink)
-- 补：[can i use](https://caniuse.com/)
+- *：[can i use](https://caniuse.com/)
 
 ## 工程开发
 
@@ -180,7 +181,7 @@
 - [CommonJS](https://zh.wikipedia.org/wiki/CommonJS)
 - [SeaJS]((https://seajs.github.io/seajs/docs/))/[CMD](https://github.com/seajs/seajs/issues/242)
 - [RequireJS](https://requirejs.org/)/[AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)
-- 补：[AMD 和 CMD 的区别有哪些？](https://www.zhihu.com/question/20351507)
+- *：[AMD 和 CMD 的区别有哪些？](https://www.zhihu.com/question/20351507)
 
 ### 版本管理
 
@@ -256,14 +257,14 @@
 
 ### 设计模式
 
-- 单例模式
-- 工厂模式
-- 观察者模式
-- 发布订阅模式
-- 代理模式
-- 适配器模式
-- 策略模式
-- 命令模式
+- [单例模式](http://www.alloyteam.com/2012/10/common-javascript-design-patterns/)
+- [工厂模式](http://www.alloyteam.com/2012/10/commonly-javascript-design-patterns-simple-factory-pattern/)
+- [观察者模式](http://www.alloyteam.com/2012/10/commonly-javascript-design-pattern-observer-mode/)
+- [发布订阅模式](https://juejin.im/post/5a9108b6f265da4e7527b1a4)
+- [代理模式](http://www.alloyteam.com/2012/10/commonly-javascript-design-patterns-proxy-mode/)
+- [适配器模式](http://www.alloyteam.com/2012/10/commonly-javascript-design-patterns-adapter-mode/)
+- [策略模式](http://www.alloyteam.com/2012/10/commonly-javascript-design-patterns-strategy-mode/)
+- [命令模式](https://juejin.im/entry/5b95c73ef265da0a857a59de)
 - ...
 
 ### 架构模式
@@ -271,28 +272,29 @@
 - Script
 - Code Blocks
 - Code Behind
-- MVC
-- MVP
-- MVVM
-- Flux
+- [MVC](https://zh.wikipedia.org/wiki/MVC)
+- [MVP](https://zh.wikipedia.org/wiki/Model-view-presenter)
+- [MVVM](https://zh.wikipedia.org/wiki/MVVM)
+- [Flux](https://github.com/facebook/flux)
+- *：[你对MVC、MVP、MVVM 三种组合模式分别有什么样的理解？](https://www.zhihu.com/question/20148405)
 
 ### 编程范型
 
-- 面向对象编程（OOP）
-- 面向切面编程（AOP）
-- 函数式编程
-- 响应式编程
+- [面向对象编程(OOP)](https://zh.wikipedia.org/wiki/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1)
+- [面向切面编程(AOP)](https://zh.wikipedia.org/wiki/%E9%9D%A2%E5%90%91%E5%88%87%E9%9D%A2%E7%9A%84%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1)
+- [函数式编程](https://zh.wikipedia.org/wiki/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B)
+- [响应式编程](https://zhuanlan.zhihu.com/p/27678951)
 
 ### 程序设计
 
-- 结构化程序
+- [结构化程序](https://wiki.mbalib.com/wiki/%E7%BB%93%E6%9E%84%E5%8C%96%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1)
 
 	- 自顶向下
 	- 逐步求精
 	- 模块化
 	- 限制使用goto
 
-- 面向对象程序
+- [面向对象程序](https://zh.wikipedia.org/wiki/SOLID_(%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1))
 
 	- 单一功能原则（S）
 	- 开放关闭原则（O）
@@ -304,60 +306,60 @@
 
 ### 可视化
 
-- SVG
+- [SVG](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Tutorial)
 
-	- D3
-	- Raphaël
-	- Snap
+	- [D3](https://d3js.org/)
+	- [Raphaël](https://dmitrybaranovskiy.github.io/raphael/)
+	- [Snap](http://snapsvg.io/)
 
-- Canvas 2D
+- [Canvas 2D](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
 
-	- Echarts
-	- HighCharts
+	- [Echarts](https://www.echartsjs.com/zh/index.html)
+	- [HighCharts](https://www.highcharts.com/)
 
-- WebGL
+- [WebGL](https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API)
 
-	- Three
+	- [Three](https://threejs.org/)
 
 ### 移动Web
 
-- WebView
+- [WebView](https://developer.android.com/reference/android/webkit/WebView)
 
-	- Zepto
-	- jQuery Mobile
+	- [Zepto](https://zeptojs.com/)
+	- [jQuery Mobile](https://jquerymobile.com/)
 
 - Web to Native
 
-	- Weex
-	- React Native
-	- Flutter
+	- [Weex](https://weex.apache.org/zh/)
+	- [React Native](https://reactnative.cn/)
+	- [Flutter](https://flutterchina.club/)
 
-- 小程序
-- 响应式网页设计
+- [小程序](https://mp.weixin.qq.com/cgi-bin/wx)
+- [响应式网页设计](https://zh.wikipedia.org/wiki/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1)
 
 ### 游戏开发
 
-- Cocos2d
-- Egret Engine
+- [Cocos2d](https://docs.cocos.com/creator/manual/zh/getting-started/cocos2d-x-guide.html)
+- [Egret Engine](https://www.egret.com/products/engine.html)
 
 ### 便携式设备
 
-- Glass
-- Bracelet
+- [Glass](https://developers.google.com/glass/develop/gdk)
+- [Bracelet](https://www.bilibili.com/video/av2271112/)
 
 ## 社区发展
 
-- SSR
+- [SSR](https://www.zhihu.com/question/59578433)
 
-- 大前端
+- [大前端](https://www.infoq.cn/article/K_RFbwfff5MugJXixYDQ)
 
-- 微服务
+- [微服务](https://www.infoq.cn/article/CaXvurFIN*DqvW4iEh1H)
 
-- Serverless
+- [Serverless](https://serverless.com/)
 
-- WebAssembly
+- [WebAssembly](https://webassembly.org/)
 
-- Less code/No code
+- [Less code/No code](https://www.bmc.com/blogs/low-code-vs-no-code/)
 
 ## 计算机基础
 
@@ -367,6 +369,8 @@
 - 文法
 - V8
 - AST
+- JIT
+- *：[JavaScript 语法解析、AST、V8、JIT](https://cheogo.github.io/learn-javascript/201709/runtime.html)
 
 ### 数据结构
 
@@ -378,6 +382,7 @@
 - 树（Tree）
 - 集合（Set）
 - 哈希表（Map）
+- *：[JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 
 ### 算法
 
@@ -401,7 +406,9 @@
 	- 深度优先搜索（DFS）
 	- 广度优先搜索（BFS）
 
-- Diff
+- [Diff](https://calendar.perfplanet.com/2013/diff/)
+
+- *：[JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 
 ### 操作系统
 
@@ -419,15 +426,15 @@
 
 ### 计算机网络
 
-- OSI七层模型
+- [OSI七层模型](https://juejin.im/post/59eb06b1f265da430f313c7f)
 
 ## 后端知识
 
 ### Node
 
-- Express
-- Koa
-- Egg
+- [Express](https://expressjs.com/zh-cn/)
+- [Koa](https://koa.bootcss.com/#introduction)
+- [Egg](https://eggjs.org/zh-cn/intro/)
 
 ### 编程语言
 
@@ -435,30 +442,30 @@
 
 ### 网页服务器
 
-- Nginx
-- Apache
-- Tomcat
+- [Nginx](https://www.nginx.com/)
+- [Apache](https://httpd.apache.org/)
+- [Tomcat](http://tomcat.apache.org/)
 
 ### 数据库
 
 - SQL
 
-	- MySQL
-	- Oracle
-	- SQL Server
-	- PostgreSQL
-	- DB2
+	- [MySQL](https://www.mysql.com/)
+	- [Oracle](https://www.oracle.com/index.html)
+	- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+	- [PostgreSQL](https://www.postgresql.org/)
+	- [DB2](https://www.ibm.com/analytics/db2)
 
 - NoSQL
 
-	- MongoDB
-	- CouchDB
-	- Hbase
+	- [MongoDB](https://www.mongodb.com/cn)
+	- [CouchDB](https://couchdb.apache.org/)
+	- [HBase](https://hbase.apache.org/)
 
 ### 数据缓存
 
-- Redis
-- Memcached
+- [Redis](https://redis.io/)
+- [Memcached](https://memcached.org/)
 
 ## 软技能
 
