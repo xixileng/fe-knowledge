@@ -95,12 +95,16 @@
 
 ### 开发库/框架
 
-- [Vue](https://cn.vuejs.org/v2/guide/)
+- [Vue 2](https://cn.vuejs.org/v2/guide/)
+- [Vue 3](https://v3.cn.vuejs.org/guide/introduction.html)
 
 	- [Vuex](https://vuex.vuejs.org/zh/guide/)
 	- [Vue-router](https://router.vuejs.org/zh/)
 	- [Vue-cli](https://cli.vuejs.org/zh/guide/)
+  - [TDesign Vue2](https://tdesign.tencent.com/vue/overview)
+  - [TDesign Vue3](https://tdesign.tencent.com/vue-next/overview)
 	- [Element UI](https://element.eleme.io/#/zh-CN)
+
 
 - [React](https://zh-hans.reactjs.org/)
 
@@ -108,6 +112,7 @@
 	- [React-router](https://reacttraining.com/react-router/web/guides/quick-start)
 	- [create-react-app](https://github.com/facebook/create-react-app)
 	- [Ant design](https://ant.design/index-cn)
+  - [TDesign React](https://tdesign.tencent.com/react/overview)
 
 - [Angular](https://angular.io/)
 - [Ember](https://emberjs.com/)
@@ -221,6 +226,7 @@
 - [Gulp](https://gulpjs.com/)
 - [Grunt](https://gruntjs.com/)
 - [Rollup](https://rollupjs.org/guide/en/)
+- [Vite](https://cn.vitejs.dev/guide/)
 
 ### 转换器
 
@@ -314,12 +320,14 @@
 
 - [Canvas 2D](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
 
-	- [Echarts](https://www.echartsjs.com/zh/index.html)
+	- [Echarts](https://echarts.apache.org/zh/index.html)
 	- [HighCharts](https://www.highcharts.com/)
+  - [AntV](https://antv.vision/zh)
 
 - [WebGL](https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API)
 
 	- [Three](https://threejs.org/)
+  - [Echarts GL](https://echarts.apache.org/zh/option-gl.html#globe)
 
 ### 移动Web
 
@@ -335,6 +343,11 @@
 	- [Flutter](https://flutterchina.club/)
 
 - [小程序](https://mp.weixin.qq.com/cgi-bin/wx)
+
+  - [Taro](https://taro-docs.jd.com/taro/docs)
+  - [uni-app](https://uniapp.dcloud.io/)
+  - [mpvue](http://mpvue.com/)
+
 - [响应式网页设计](https://zh.wikipedia.org/wiki/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1)
 
 ### 游戏开发
