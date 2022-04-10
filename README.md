@@ -1,6 +1,6 @@
 ## 前端知识图谱
 
-![前端知识图谱](./前端知识图谱.png)
+![前端知识图谱](./img.png)
 
 ### Todo List
 * 为图谱对应的列表增添超链接，链接到知识点对应的更多内容的页面(建议文档渠道：官网、MDN、GitHub、wiki，中英文随意)
@@ -328,6 +328,9 @@
 
 	- [Three](https://threejs.org/)
   - [Echarts GL](https://echarts.apache.org/zh/option-gl.html#globe)
+
+- [WebGPU](https://www.w3.org/TR/webgpu/)
+
 
 ### 移动Web
 
